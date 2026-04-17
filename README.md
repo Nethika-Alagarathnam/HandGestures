@@ -4,11 +4,7 @@ The system can recognize different hand gestures such as open hand, fist, thumbs
 
 One interesting feature is the connection between two hands.
 
-Technologies U
-Python
-OpenCV
-MediaPipe
-NumPy
+Technologies | Python | OpenCV | MediaPipe | NumPy
 
 How to Run
 Install required libraries = pip install opencv-python mediapipe numpy
