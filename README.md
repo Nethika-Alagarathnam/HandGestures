@@ -7,11 +7,10 @@ One interesting feature is the connection between two hands.
 Technologies | Python | OpenCV | MediaPipe | NumPy
 
 # Installation
-   Clone the repository
  - git clone https://github.com/Nethika-Alagarathnam/HandGestures.git
  - cd HandGestures
- - pip install opencv-python mediapipe numpy
- - python hand_tracker.py
+ - Then install necessary libraries using "pip install opencv-python mediapipe numpy"
+ - run "python hand_tracker.py"
  - Press Q to quit application
    
 Make sure your webcam is connected and working before running the program.
